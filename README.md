@@ -8,12 +8,16 @@ The goal of this project is to transform raw retail data into meaningful busines
 Project Screenshots
 Executive Dashboard
 
-<img width="1920" height="1080" alt="Executive_Dashboard png" src="https://github.com/user-attachments/assets/a06bf824-21fa-4bd3-be26-60f5a4206944" />
+<img width="1920" height="972" alt="Executive_Dashboard png" src="https://github.com/user-attachments/assets/c7da454c-9966-469a-a7f1-e318582dbdbe" />
+
+
 
 
 Deep Dive Analysis
 
-<img width="1920" height="1080" alt="Deep_Dive_Analysis png" src="https://github.com/user-attachments/assets/08aa1e6e-500f-43c3-bbb2-dbb11ea57771" />
+
+<img width="1920" height="971" alt="Deep_Dive_Analysis png" src="https://github.com/user-attachments/assets/53c4d543-6fbe-42c8-a909-95cf5a37a7ed" />
+
 
 Author
 
