@@ -1,2 +1,7 @@
-# Retail-Sales-Analysis-PowerBI
-Interactive Power BI dashboard analyzing retail sales performance with KPI tracking, regional analysis, product insights, profit trends, and executive-level business reporting using the Superstore dataset.
+Retail Sales Performance Dashboard | Power BI
+Project Overview
+
+This project presents an interactive Retail Sales Performance Dashboard developed in Power BI using the Superstore dataset. The dashboard helps analyze sales performance, profitability, customer behavior, regional trends, and product contributions through executive-level visualizations and KPIs.
+
+The goal of this project is to transform raw retail data into meaningful business insights that support data-driven decision-making.
+
